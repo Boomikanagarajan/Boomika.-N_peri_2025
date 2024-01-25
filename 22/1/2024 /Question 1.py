@@ -31,5 +31,5 @@ Sample Output 1
 
 code:
 N=int(input()) 
-count=len(str(N)) 
-print(count) 
+reversed number= integer(str(N)[::-1]) 
+print(reversed number) 
